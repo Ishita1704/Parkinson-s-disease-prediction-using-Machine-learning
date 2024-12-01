@@ -9,6 +9,7 @@ Evaluation metrics are used to measure the performance of machine learning model
 Area Under the ROC Curve (AUC-ROC):
 ![image](https://github.com/user-attachments/assets/06f7978f-8dc3-4aa2-8e4b-4914b89c8a7a)
 ![image](https://github.com/user-attachments/assets/4fcdc6cd-3baf-4e8d-8686-858fca61ff7d)
+![image](https://github.com/user-attachments/assets/b7b596d4-ad3e-4e05-ae4c-6c61e9e34c49)
 OUTPUT:
 Parkinson's disease data
 ![image](https://github.com/user-attachments/assets/61e4d86f-dd35-4c40-8e51-bfde444c06b5)
@@ -43,6 +44,10 @@ f1_scores = []
 ![image](https://github.com/user-attachments/assets/1764c4b2-e5a8-443e-924b-aa7ae1e17f0c)
 Evaluation:
 ![image](https://github.com/user-attachments/assets/df14df98-948b-4da0-bc57-82608fa2e475)
+Confusion matrix
+To generate a confusion matrix, you can use sklearn.metrics.confusion_matrix and visualize it using seaborn's heatmap. The confusion matrix shows how well your model's predictions align with the true labels.
+![image](https://github.com/user-attachments/assets/9ed24479-33ba-4c41-acbe-b9279610a979)
+
 
 
 
