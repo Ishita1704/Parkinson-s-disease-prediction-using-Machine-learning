@@ -8,3 +8,5 @@ Evaluation metrics are used to measure the performance of machine learning model
 3. Ranking/Probability Metrics
 Area Under the ROC Curve (AUC-ROC):
 ![image](https://github.com/user-attachments/assets/06f7978f-8dc3-4aa2-8e4b-4914b89c8a7a)
+![image](https://github.com/user-attachments/assets/4fcdc6cd-3baf-4e8d-8686-858fca61ff7d)
+
