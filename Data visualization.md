@@ -32,4 +32,5 @@ A pie chart is used to represent categorical data as slices of a circle, where e
 ![image](https://github.com/user-attachments/assets/c1d61349-47e7-49d3-b8d6-15e86dd82ebc)
 3D Scatter Plot
 A 3D scatter plot is a great way to visualize three-dimensional data points. You can create a 3D scatter plot in Python using Matplotlib or Plotly, which allows you to view data in three dimensions.
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/36558c74-85a7-4d5e-8e78-c32125e1741d)
+
