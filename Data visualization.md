@@ -1,5 +1,5 @@
 Data visualization in Python is commonly done using libraries like matplotlib, seaborn, and plotly. Here's an overview of how you can use these tools for creating visualizations:
-1. <b>Matplotlib<b>
+1. <b>Matplotlib</b>
 Matplotlib is the foundational library for most data visualization tasks.
 Line Plot
 A line plot is a type of chart that displays information as a series of data points connected by straight line segments. It is often used to visualize trends over time or a continuous variable.
